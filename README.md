@@ -12,3 +12,7 @@ I really like creating:
 - CLIs with pretty interfaces (see [ideaseed](https://github.com/ewen-lbh/ideaseed))
 
 I work on a lot of projects and also do [music](https://open.spotify.com/artist/6tUc6r8aNeiiT1mElcnMx9?si=ezLedPQ4Qimkep9xmsjpQA) and [graphism/motion design](https://ewen.works) on top of that, and some small papers/books (not published yet because it's the rough beginnings!)
+
+I like minimalism, so my website's domain name is just [ewen.works](https://ewen.works) <sub>accessing the `works` array on the `ewen` object ;)</sub>
+
+I started publishing some art stuff [on RedBubble](https://www.redbubble.com/people/ewenlbh/shop) as well.
