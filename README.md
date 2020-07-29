@@ -6,7 +6,7 @@ I really like creating:
 
 - web applications, whether 
   - huge (see [schoolsyst](https://github.com/schoolsyst))
-  - or small (see [ultisnips-tools](https://github.com/ewen-lbh/utilsnips-tools))
+  - or small (see [ultisnips-tools](https://github.com/ewen-lbh/ultisnips-tools))
 - CLIs with pretty interfaces (see [ideaseed](https://github.com/ewen-lbh/ideaseed))
 - small and do-one-thing-and-do-it-well packages (see [python-strip-ansi](https://github.com/ewen-lbh/python-strip-ansi))
 - frameworks (see [restapiboys](https://github.com/ewen-lbh/restapiboys))
