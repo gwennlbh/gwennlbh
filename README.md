@@ -8,7 +8,7 @@ I really like creating:
   - huge (see [schoolsyst](https://github.com/schoolsyst))
   - or small (see [ultisnips-tools](https://github.com/ewen-lbh/ultisnips-tools))
 - CLIs with pretty interfaces (see [ideaseed](https://github.com/ewen-lbh/ideaseed))
-- small and do-one-thing-and-do-it-well packages (see [python-strip-ansi](https://github.com/ewen-lbh/python-strip-ansi))
+- small and [do-one-thing-and-do-it-well](https://en.wikipedia.org/wiki/Unix_philosophy#origin) packages (see [python-strip-ansi](https://github.com/ewen-lbh/python-strip-ansi))
 - frameworks (see [restapiboys](https://github.com/ewen-lbh/restapiboys))
 
 I work on a lot of projects and also do [music](https://open.spotify.com/artist/6tUc6r8aNeiiT1mElcnMx9?si=ezLedPQ4Qimkep9xmsjpQA) and [graphism/motion design](https://ewen.works) on top of that, and some small papers/books (not published yet because it's the rough beginnings!)
