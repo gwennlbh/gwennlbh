@@ -15,3 +15,13 @@ I work on a lot of projects and also do [music](https://open.spotify.com/artist/
 I like minimalism, so my website's domain name is just [ewen.works](https://ewen.works) <sub>accessing the `works` array on the `ewen` object ;)</sub>
 
 I started publishing some art stuff [on RedBubble](https://www.redbubble.com/people/ewenlbh/shop) as well.
+
+I'm currently studying maths in higher education to earn access to highly selective engineering schools called "Grandes Écoles", here's a nice theorem for you :)
+
+$$
+\forall u \in \mathcal{L}(E), \forall (P_i)_{1\leq i \leq N} \in \mathbb{K}[X]^N, 
+$$
+
+$$
+\bigwedge_{i=1}^N P_i = 1 \implies \ker \left(\prod_{i=1}^N P_i\right)(u) = \bigoplus_{i=1}^N \ker P_i(u)
+$$
