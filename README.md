@@ -19,7 +19,7 @@ I started publishing some art stuff [on RedBubble](https://www.redbubble.com/peo
 I'm currently studying maths in higher education to earn access to highly selective engineering schools called "Grandes Écoles", here's a nice theorem for you :)
 
 $$
-\forall N \in \mathbb{N}, \forall u \in \mathcal{L}(E), \forall (P_i)_{1\leq i \leq N} \in \mathbb{K}[X]^N, 
+\text{with $E$ a $\mathbb{K}$-vector space}, \forall N \in \mathbb{N}, \forall u \in \mathcal{L}(E), \forall (P_i)_{1\leq i \leq N} \in \mathbb{K}[X]^N, 
 $$
 
 $$
