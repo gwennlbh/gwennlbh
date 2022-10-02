@@ -16,12 +16,4 @@ I like minimalism, so my website's domain name is just [ewen.works](https://ewen
 
 I started publishing some art stuff [on RedBubble](https://www.redbubble.com/people/ewenlbh/shop) as well.
 
-I'm currently studying maths in higher education to earn access to highly selective engineering schools called "Grandes Écoles", here's a nice theorem for you :)
-
-$$
-\text{with $E$ a $\mathbb{K}$-vector space}, \forall N \in \mathbb{N}, \forall u \in \mathcal{L}(E), \forall (P_i)_{1\leq i \leq N} \in \mathbb{K}[X]^N, 
-$$
-
-$$
-\bigwedge_{i=1}^N P_i = 1 \implies \ker \left(\prod_{i=1}^N P_i\right)(u) = \bigoplus_{i=1}^N \ker P_i(u)
-$$
+After 2 intense years of maths in higher education to earn access to highly selective engineering schools called "Grandes Écoles", I got into [ENSEEIHT](https://enseeiht.fr/), one of France's best programming schools!
