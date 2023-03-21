@@ -16,4 +16,4 @@ I like minimalism, so my website's domain name is just [ewen.works](https://ewen
 
 I started publishing some art stuff [on RedBubble](https://www.redbubble.com/people/ewenlbh/shop) as well.
 
-After 2 intense years of maths in higher education to earn access to highly selective engineering schools called "Grandes Écoles", I got into [ENSEEIHT](https://enseeiht.fr/), one of France's best programming schools!
+After 2 intense years of maths in higher education to earn access to highly selective engineering schools called "Grandes Écoles", I got into [ENSEEIHT](https://enseeiht.fr/), one of France's best computer science schools!
