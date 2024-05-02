@@ -19,3 +19,5 @@ I started publishing some art stuff [on RedBubble](https://www.redbubble.com/peo
 After 2 intense years of maths in higher education to earn access to highly selective engineering schools called "Grandes Écoles", I got into [ENSEEIHT](https://enseeiht.fr/), one of France's best computer science schools!
 
 I am now (for the school year 2023-2024) the president of my engineering school's computer science association, [net7](https://net7.dev). I contribute a lot to the enhancement of the school's student life with various projects, available on [net7's Gitlab](https://git.inpt.fr/users/lebihae/contributed)
+
+![](./github-metrics.svg)
