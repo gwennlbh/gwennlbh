@@ -34,8 +34,8 @@ jobs:
           plugin_gists: yes
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 9943464
-          plugin_stackoverflow_sections: answers-top, questions-top, questions-recent
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_KEY }}
           plugin_rss: yes
           plugin_rss_source: https://ewen.works/blog/rss.xml
+          
