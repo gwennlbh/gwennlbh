@@ -21,8 +21,8 @@ jobs:
           plugin_languages: yes
           plugin_languages_sections: most-used, recently-used
           plugin_languages_limit: 0
-          plugin_languages_recent_load: 400
-          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 800
+          plugin_languages_recent_days: 30
           plugin_languages_aliases: RenderScript:Rust
           plugin_languages_ignored: Hack
           plugin_stargazers: yes
