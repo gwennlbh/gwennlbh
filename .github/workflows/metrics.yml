@@ -24,6 +24,7 @@ jobs:
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
           plugin_languages_aliases: RenderScript:Rust
+          plugin_languages_ignored: Hack
           plugin_stargazers: yes
           plugin_topics: yes
           plugin_topics_mode: icons
