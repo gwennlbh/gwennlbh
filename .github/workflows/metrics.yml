@@ -28,6 +28,7 @@ jobs:
             Hack
             Roff
             TeX
+            C
           # plugin_stargazers: yes
           plugin_topics: yes
           plugin_topics_mode: icons
