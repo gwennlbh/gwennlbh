@@ -24,11 +24,7 @@ jobs:
           plugin_languages_recent_load: 800
           plugin_languages_recent_days: 30
           plugin_languages_aliases: RenderScript:Rust
-          plugin_languages_ignored: |
-            Hack
-            Roff
-            TeX
-            C
+          plugin_languages_ignored: Hack,Roff,TeX,C
           # plugin_stargazers: yes
           plugin_topics: yes
           plugin_topics_mode: icons
