@@ -22,4 +22,4 @@ I am now (for the school year 2023-2024) the president of my engineering school'
 
 ![](./github-metrics.svg)
 
-<figure><embed src="https://wakatime.com/share/@ewen_lbh/017b384c-8806-4666-8d13-fb4028e219fc.svg"></embed></figure>
+![Languages over all time](https://wakatime.com/share/@ewen_lbh/017b384c-8806-4666-8d13-fb4028e219fc.svg)
