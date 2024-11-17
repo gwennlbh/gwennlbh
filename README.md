@@ -1,4 +1,4 @@
-Hi! I'm Ewen Le Bihan, interested in almost anything that is both creative and digital.
+Hi! I'm Gwen Le Bihan, interested in almost anything that is both creative and digital.
 
 Started programming with python (which I still love and use extensively) and web programming, now diversifying and learning about lower-level languages (Go, and now learning Rust when I have the time).
 
