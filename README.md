@@ -10,9 +10,9 @@ I really like creating:
 - CLIs with pretty interfaces (see [ideaseed](https://github.com/ewen-lbh/ideaseed))
 - small and [do-one-thing-and-do-it-well](https://en.wikipedia.org/wiki/Unix_philosophy#origin) packages (see [python-strip-ansi](https://github.com/ewen-lbh/python-strip-ansi))
 
-I work on a lot of projects and also do [music](https://open.spotify.com/artist/6tUc6r8aNeiiT1mElcnMx9?si=ezLedPQ4Qimkep9xmsjpQA) and [graphism/motion design](https://ewen.works) on top of that, and some small papers/books (not published yet because it's the rough beginnings!)
+I work on a lot of projects and also do [music](https://open.spotify.com/artist/6tUc6r8aNeiiT1mElcnMx9?si=ezLedPQ4Qimkep9xmsjpQA) and [graphism/motion design](https://gwen.works) on top of that, and some small papers/books (not published yet because it's the rough beginnings!)
 
-I like minimalism, so my website's domain name is just [ewen.works](https://ewen.works) <sub>accessing the `works` array on the `ewen` object ;)</sub>
+I like minimalism, so my website's domain name is just [gwen.works](https://gwen.works) <sub>accessing the `works` array on the `gwen` object ;)</sub>
 
 I started publishing some art stuff [on RedBubble](https://www.redbubble.com/people/ewenlbh/shop) as well.
 
@@ -22,4 +22,4 @@ I am now (for the school year 2023-2024) the president of my engineering school'
 
 ![](./github-metrics.svg)
 
-![Languages over all time](https://wakatime.com/share/@ewen_lbh/017b384c-8806-4666-8d13-fb4028e219fc.svg)
+![Languages over all time](https://wakatime.com/share/@gwen_lbh/c894c8ca-5f9a-4e8d-afa3-36f4d590b120.svg)
