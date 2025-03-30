@@ -8,8 +8,8 @@ I really like creating:
 - web applications, whether 
   - huge (see [Churros](https://git.inpt.fr/inp-net/churros) or [schoolsyst](https://github.com/schoolsyst))
   - or small (see [ultisnips-tools](https://github.com/ewen-lbh/ultisnips-tools))
-- automation of mundane tasks with CLIs (see [issurge](https://github.com/gwennlbh/issurge), [fsorg](https://github.com/gwennlbh/fsorg))
-- dev tooling (see [hyprls](https://github.com/hyprland-community/hyprls))
+- automation of mundane tasks with CLIs (see [ffcss](https://github.com/gwennlbh/ffcss), [fsorg](https://github.com/gwennlbh/fsorg))
+- dev tooling (see [ortfo](https://github.com/ortfo), [issurge](https://github.com/gwennlbh/issurge), [hyprls](https://github.com/hyprland-community/hyprls), [caddy-i18n](https://github.com/gwennlbh/caddy-i18n))
 <!--
 - CLIs with pretty interfaces (see [ideaseed](https://github.com/ewen-lbh/ideaseed))
 - small and [do-one-thing-and-do-it-well](https://en.wikipedia.org/wiki/Unix_philosophy#origin) packages (see [python-strip-ansi](https://github.com/ewen-lbh/python-strip-ansi))
