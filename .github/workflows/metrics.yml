@@ -26,15 +26,15 @@ jobs:
           plugin_languages_aliases: RenderScript:Rust
           plugin_languages_ignored: Hack,Roff,TeX,C
           # plugin_stargazers: yes
-          plugin_topics: yes
+          # plugin_topics: yes
           plugin_topics_mode: icons
-          plugin_notable: yes
+          # plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
           plugin_notable_filter: stars:>100 
           plugin_notable_self: yes
           # plugin_gists: yes
-          plugin_stackoverflow: yes
+          # plugin_stackoverflow: yes
           plugin_stackoverflow_user: 9943464
           plugin_stackoverflow_sections: answers-top, questions-top
           plugin_stackoverflow_limit: 1
@@ -42,6 +42,6 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_KEY }}
           plugin_wakatime_user: gwen_lbh
-          plugin_rss: yes
+          # plugin_rss: yes
           plugin_rss_source: https://ewen.works/blog/rss.xml
           
