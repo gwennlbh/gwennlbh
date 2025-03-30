@@ -8,6 +8,8 @@ I really like creating:
 - web applications, whether 
   - huge (see [Churros](https://git.inpt.fr/inp-net/churros) or [schoolsyst](https://github.com/schoolsyst))
   - or small (see [ultisnips-tools](https://github.com/ewen-lbh/ultisnips-tools))
+- automation of mundane tasks with CLIs (see [issurge](https://github.com/gwennlbh/issurge), [fsorg](https://github.com/gwennlbh/fsorg))
+- dev tooling (see [hyprls](https://github.com/hyprland-community/hyprls))
 <!--
 - CLIs with pretty interfaces (see [ideaseed](https://github.com/ewen-lbh/ideaseed))
 - small and [do-one-thing-and-do-it-well](https://en.wikipedia.org/wiki/Unix_philosophy#origin) packages (see [python-strip-ansi](https://github.com/ewen-lbh/python-strip-ansi))
@@ -25,4 +27,9 @@ I am now (for the school year 2023-2024) the president of my engineering school'
 
 ![](./github-metrics.svg)
 
-![Languages over all time](https://wakatime.com/share/@gwen_lbh/c894c8ca-5f9a-4e8d-afa3-36f4d590b120.svg)
+<details>
+  <summary>Languages over all time</summary>
+
+  ![Languages over all time](https://wakatime.com/share/@gwen_lbh/c894c8ca-5f9a-4e8d-afa3-36f4d590b120.svg)
+  
+</details>
