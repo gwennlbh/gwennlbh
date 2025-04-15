@@ -17,7 +17,7 @@ jobs:
       - uses: lowlighter/metrics@main
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity #, community, repositories, metadata
+          base: header, # activity #, community, repositories, metadata
           # plugin_isocalendar: yes
           plugin_languages: no
           plugin_languages_sections: recently-used
