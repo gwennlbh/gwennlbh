@@ -7,7 +7,7 @@ I really like creating:
 - experimental A/V stuff (see [shapemaker](https://github.com/gwennlbh/shapemaker))
 - web applications, whether 
   - huge (see [Churros](https://git.inpt.fr/inp-net/churros) or [schoolsyst](https://github.com/schoolsyst))
-  - or small (see [ultisnips-tools](https://github.com/gwenn°-lbh/ultisnips-tools))
+  - or small (see [ultisnips-tools](https://github.com/gwennlbh/ultisnips-tools))
 - automation of mundane tasks with CLIs (see [ffcss](https://github.com/gwennlbh/ffcss), [fsorg](https://github.com/gwennlbh/fsorg))
 - dev tooling (see [ortfo](https://github.com/ortfo), [automirror](https://github.com/inp-net/automirror), [issurge](https://github.com/gwennlbh/issurge), [hyprls](https://github.com/hyprland-community/hyprls), [caddy-i18n](https://github.com/gwennlbh/caddy-i18n))
 <!--
