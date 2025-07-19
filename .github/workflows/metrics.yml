@@ -33,6 +33,7 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
           plugin_notable_self: yes
+          plugin_notable_filter: stars:>500 
           # plugin_gists: yes
           # plugin_stackoverflow: yes
           plugin_stackoverflow_user: 9943464
