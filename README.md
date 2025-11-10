@@ -28,7 +28,10 @@ I am now (for the school year 2023-2024) the president of my engineering school'
 ![](./github-metrics.svg)
 
 <details>
-  <summary>Languages over all time</summary>
+  <summary>
+    Languages over all time
+    (<a href="https://wakatime.com/@0054cecb-dd63-44eb-9e94-ed53ccb8506a"><img src="https://wakatime.com/badge/user/0054cecb-dd63-44eb-9e94-ed53ccb8506a.svg" alt="Total time coded since Aug 16 2018" /></a> since 2018)
+  </summary>
 
   ![Languages over all time](https://wakatime.com/share/@gwen_lbh/c894c8ca-5f9a-4e8d-afa3-36f4d590b120.svg)
   
