@@ -42,7 +42,7 @@ jobs:
           plugin_stackoverflow_lines: 1
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_KEY }}
-          plugin_wakatime_user: gwen_lbh
+          plugin_wakatime_user: gwennlbh
           # plugin_rss: yes
-          plugin_rss_source: https://beta.gwen.works/blog/rss.xml
+          plugin_rss_source: https://gwen.works/blog/rss.xml
           
